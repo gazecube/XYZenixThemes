@@ -31,7 +31,7 @@ Name | Description | State
 
 Name | Description | State
 -----|-------------|------
-[oldsu](/Other/osu/old-osu/old-osu.css) | Brings back the pre-2018 osu! look.  **UNFINISHED**  | Unknown
+[oldsu](/Other/osu/old-osu/old-osu.css) | Brings back the pre-2018 osu! website look. | Unfinished
 
 
 ## Themes: [YouTube](/YoutubeThemes/)
